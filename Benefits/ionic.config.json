@@ -1,0 +1,7 @@
+{
+  "name": "Benefits",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
